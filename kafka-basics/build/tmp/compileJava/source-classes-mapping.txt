@@ -1,0 +1,2 @@
+demos/kafka/ProducerDemo.java
+ demos.kafka.ProducerDemo
